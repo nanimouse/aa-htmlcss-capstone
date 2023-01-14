@@ -1,1 +1,91 @@
+@font-face {
+    font-family: Mayoritte;
+    src: url(Mayoritte-qZVmd.ttf);
+}
+
+#container {
+    background-color: #A4C8B5;
+    height: 900px;
+}
+
+#main-header {
+    font-family: Mayoritte;
+    letter-spacing: 10px;
+    text-align: center;
+    color: #757A77;
+    padding-top: 10px;
+}
+
+#nav-bar {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+
+  a {
+    text-decoration: none;
+    color: #757A77;
+  }
+
+h2 {
+    font-family: "American Typewriter";
+    letter-spacing: 3px;
+    /* font-style: Condensed; */
+    font-weight: lighter;
+    text-align: center;
+}
+
+#manifestation {
+    text-align: center;
+}
+
+#paragraphs {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.mani-boxes  {
+    width: 300px;
+    margin: auto;
+}
+
+#photo {
+    width: 450px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+fieldset {
+    width: 800px;
+    margin: auto;
+    margin-top: 80px;
+}
+
+legend {
+    border: 1px solid;
+    margin-left: 70px;
+    padding: 8px 15px;
+    text-align: left;
+}
+
+#form-container {
+    text-align: center;
+    margin-top: 22px;
+}
+
+.response-space {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#button {
+    margin-top: 15px;
+}
+
+#resources {
+    width: 500px;
+    margin: auto;
+}
 
